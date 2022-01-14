@@ -7,7 +7,7 @@
 |:-----|:--------:|------:|
 | USA   | **bold** | current |
 | PC   |w  `code`  |   working |
-| UK   | _italic_ |    deprecated |
+| UK   | _italic_ |    prior |
 
 <!--
 **sammcgrail/sammcgrail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
