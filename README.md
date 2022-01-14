@@ -3,11 +3,11 @@
 ![don't tell me you're too blind to see](docs/rickroll.gif)
 
 
-| Left |  Center  | Right |
+| Location |  Mood  | Status |
 |:-----|:--------:|------:|
-| L0   | **bold** | $1600 |
-| L1   |w  `code`  |   $12 |
-| L2   | _italic_ |    $1 |
+| USA   | **bold** | current |
+| PC   |w  `code`  |   working |
+| UK   | _italic_ |    deprecated |
 
 <!--
 **sammcgrail/sammcgrail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
