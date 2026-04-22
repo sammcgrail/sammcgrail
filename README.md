@@ -1,1 +1,1 @@
-[![voronoi](docs/voronoi.gif)](https://sebland.com/textflow/voronoi)
+[![voronoi](docs/voronoi.gif)](https://textflow.sebland.com/voronoi)
